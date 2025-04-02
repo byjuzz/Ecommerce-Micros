@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\05.Common\ServiceCommon.Collection\ServiceCommon.Collection.csproj" />
+    <ProjectReference Include="..\..\..\05.Common\ServiceCommon.Mapping\ServiceCommon.Mapping.csproj" />
+    <ProjectReference Include="..\..\..\05.Common\ServiceCommon.Paging\ServiceCommon.Paging.csproj" />
+    <ProjectReference Include="..\..\03.Identity.Persistence\Identity.Persistence.Database\Identity.Persistence.Database.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

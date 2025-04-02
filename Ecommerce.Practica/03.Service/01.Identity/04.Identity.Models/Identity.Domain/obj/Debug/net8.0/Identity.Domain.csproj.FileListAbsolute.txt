@@ -1,0 +1,12 @@
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\04.Identity.Models\Identity.Domain\bin\Debug\net8.0\Identity.Domain.deps.json
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\04.Identity.Models\Identity.Domain\bin\Debug\net8.0\Identity.Domain.dll
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\04.Identity.Models\Identity.Domain\bin\Debug\net8.0\Identity.Domain.pdb
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\04.Identity.Models\Identity.Domain\obj\Debug\net8.0\Identity.Domain.csproj.AssemblyReference.cache
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\04.Identity.Models\Identity.Domain\obj\Debug\net8.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\04.Identity.Models\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfoInputs.cache
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\04.Identity.Models\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfo.cs
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\04.Identity.Models\Identity.Domain\obj\Debug\net8.0\Identity.Domain.csproj.CoreCompileInputs.cache
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\04.Identity.Models\Identity.Domain\obj\Debug\net8.0\Identity.Domain.dll
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\04.Identity.Models\Identity.Domain\obj\Debug\net8.0\refint\Identity.Domain.dll
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\04.Identity.Models\Identity.Domain\obj\Debug\net8.0\Identity.Domain.pdb
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\04.Identity.Models\Identity.Domain\obj\Debug\net8.0\ref\Identity.Domain.dll

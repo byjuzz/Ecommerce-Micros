@@ -1,0 +1,819 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\01.identity.api\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|solutionrelative:03.service\\01.identity\\01.identity.api\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\01.identity.api\\identity.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|solutionrelative:03.service\\01.identity\\01.identity.api\\identity.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\usercreateeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\usercreateeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\01.identity.api\\identity.api\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|solutionrelative:03.service\\01.identity\\01.identity.api\\identity.api\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\commands\\usercreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\commands\\usercreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\commands\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\commands\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\01.identity.api\\identity.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|solutionrelative:03.service\\01.identity\\01.identity.api\\identity.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\02.apigateways\\identity.apigateway\\configuration\\ocelot.combined.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|solutionrelative:02.apigateways\\identity.apigateway\\configuration\\ocelot.combined.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\02.apigateways\\identity.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|solutionrelative:02.apigateways\\identity.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\01.identity.api\\identity.api\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|solutionrelative:03.service\\01.identity\\01.identity.api\\identity.api\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\userlogineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\userlogineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA44B6C-2FA2-4687-B953-2A7E283A1C05}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.queries\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA44B6C-2FA2-4687-B953-2A7E283A1C05}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.queries\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\commands\\userlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\commands\\userlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59771D0-2B18-47F1-8073-5FFA4BA4A0D2}|03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\04.identity.models\\identity.domain\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59771D0-2B18-47F1-8073-5FFA4BA4A0D2}|03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj|solutionrelative:03.service\\01.identity\\04.identity.models\\identity.domain\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59771D0-2B18-47F1-8073-5FFA4BA4A0D2}|03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\04.identity.models\\identity.domain\\applicationuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59771D0-2B18-47F1-8073-5FFA4BA4A0D2}|03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj|solutionrelative:03.service\\01.identity\\04.identity.models\\identity.domain\\applicationuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59771D0-2B18-47F1-8073-5FFA4BA4A0D2}|03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\04.identity.models\\identity.domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59771D0-2B18-47F1-8073-5FFA4BA4A0D2}|03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj|solutionrelative:03.service\\01.identity\\04.identity.models\\identity.domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA44B6C-2FA2-4687-B953-2A7E283A1C05}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.queries\\usersqueryhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA44B6C-2FA2-4687-B953-2A7E283A1C05}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.queries\\usersqueryhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6287A04F-74AA-4AB5-BA1B-5FD7F07695C3}|03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\03.identity.persistence\\identity.persistence.database\\configuration\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287A04F-74AA-4AB5-BA1B-5FD7F07695C3}|03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj|solutionrelative:03.service\\01.identity\\03.identity.persistence\\identity.persistence.database\\configuration\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6287A04F-74AA-4AB5-BA1B-5FD7F07695C3}|03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\03.identity.persistence\\identity.persistence.database\\configuration\\applicationuserroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287A04F-74AA-4AB5-BA1B-5FD7F07695C3}|03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj|solutionrelative:03.service\\01.identity\\03.identity.persistence\\identity.persistence.database\\configuration\\applicationuserroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6287A04F-74AA-4AB5-BA1B-5FD7F07695C3}|03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\03.identity.persistence\\identity.persistence.database\\configuration\\applicationroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287A04F-74AA-4AB5-BA1B-5FD7F07695C3}|03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj|solutionrelative:03.service\\01.identity\\03.identity.persistence\\identity.persistence.database\\configuration\\applicationroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA44B6C-2FA2-4687-B953-2A7E283A1C05}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.queries\\userqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA44B6C-2FA2-4687-B953-2A7E283A1C05}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.queries\\userqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA44B6C-2FA2-4687-B953-2A7E283A1C05}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.queries\\commands\\commandsqueryhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA44B6C-2FA2-4687-B953-2A7E283A1C05}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.queries\\commands\\commandsqueryhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\responses\\identityaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\responses\\identityaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\01.identity.api\\identity.api\\extensions\\corsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|solutionrelative:03.service\\01.identity\\01.identity.api\\identity.api\\extensions\\corsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\02.apigateways\\identity.apigateway\\extensions\\corsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|solutionrelative:02.apigateways\\identity.apigateway\\extensions\\corsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\02.apigateways\\identity.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|solutionrelative:02.apigateways\\identity.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\01.identity.api\\identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|solutionrelative:03.service\\01.identity\\01.identity.api\\identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\02.apigateways\\identity.apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|solutionrelative:02.apigateways\\identity.apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\02.apigateways\\identity.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|solutionrelative:02.apigateways\\identity.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\02.apigateways\\identity.apigateway\\configuration\\ocelot.identity.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|solutionrelative:02.apigateways\\identity.apigateway\\configuration\\ocelot.identity.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\02.apigateways\\identity.apigateway\\configuration\\ocelot.users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|solutionrelative:02.apigateways\\identity.apigateway\\configuration\\ocelot.users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\02.apigateways\\identity.apigateway\\configuration\\ocelot.global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCE952E8-3D8C-47CD-9C30-336E914813A7}|02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj|solutionrelative:02.apigateways\\identity.apigateway\\configuration\\ocelot.global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\01.identity.api\\identity.api\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222306BB-A7DD-4BC7-9452-FBE947E1981F}|03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj|solutionrelative:03.service\\01.identity\\01.identity.api\\identity.api\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\extensions\\userseventextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\extensions\\userseventextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F981EA-3EAB-4B1E-B408-D16BA435F7C1}|03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\05.common\\servicecommon.collection\\datacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F981EA-3EAB-4B1E-B408-D16BA435F7C1}|03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj|solutionrelative:03.service\\05.common\\servicecommon.collection\\datacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F981EA-3EAB-4B1E-B408-D16BA435F7C1}|03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\05.common\\servicecommon.collection\\servicecommon.collection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41F981EA-3EAB-4B1E-B408-D16BA435F7C1}|03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj|solutionrelative:03.service\\05.common\\servicecommon.collection\\servicecommon.collection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6287A04F-74AA-4AB5-BA1B-5FD7F07695C3}|03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\03.identity.persistence\\identity.persistence.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287A04F-74AA-4AB5-BA1B-5FD7F07695C3}|03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj|solutionrelative:03.service\\01.identity\\03.identity.persistence\\identity.persistence.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F832247-0C8F-4436-BF76-5F1F74EE72FA}|03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\05.common\\servicecommon.paging\\pagingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F832247-0C8F-4436-BF76-5F1F74EE72FA}|03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj|solutionrelative:03.service\\05.common\\servicecommon.paging\\pagingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18966C6-D42E-4B4D-A34D-4C356EA446E2}|03.Service\\05.Common\\ServiceCommon.Mapping\\ServiceCommon.Mapping.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\05.common\\servicecommon.mapping\\dtomapperextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18966C6-D42E-4B4D-A34D-4C356EA446E2}|03.Service\\05.Common\\ServiceCommon.Mapping\\ServiceCommon.Mapping.csproj|solutionrelative:03.service\\05.common\\servicecommon.mapping\\dtomapperextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40253059-278F-4F7D-91E3-F5C1762A3925}|04.Common\\Common.Loggin\\Common.Loggin.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\04.common\\common.loggin\\sys.logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40253059-278F-4F7D-91E3-F5C1762A3925}|04.Common\\Common.Loggin\\Common.Loggin.csproj|solutionrelative:04.common\\common.loggin\\sys.logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA44B6C-2FA2-4687-B953-2A7E283A1C05}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.queries\\identity.service.queries.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CA44B6C-2FA2-4687-B953-2A7E283A1C05}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.queries\\identity.service.queries.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6287A04F-74AA-4AB5-BA1B-5FD7F07695C3}|03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\03.identity.persistence\\identity.persistence.database\\migrations\\20250329004804_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287A04F-74AA-4AB5-BA1B-5FD7F07695C3}|03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj|solutionrelative:03.service\\01.identity\\03.identity.persistence\\identity.persistence.database\\migrations\\20250329004804_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\assignroletouserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\assignroletouserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\commands\\assignroletousercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\commands\\assignroletousercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\commands\\admincreateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\commands\\admincreateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|y:\\proyectos\\ecommerce.ejercicio\\ecommerce.practica\\03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\admincreateusereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA759F81-EFA0-402C-A68D-86D90F90709C}|03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj|solutionrelative:03.service\\01.identity\\02.identity.service\\identity.service.eventhandlers\\admincreateusereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 448,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\UserController.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAIA4wB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:33:08.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\AdminUsersController.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\AdminUsersController.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\AdminUsersController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA9wC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:16:50.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserCreateCommand.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\UserCreateCommand.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\UserCreateCommand.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\UserCreateCommand.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\UserCreateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:01:06.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserCreateEventHandler.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\UserCreateEventHandler.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\UserCreateEventHandler.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\UserCreateEventHandler.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\UserCreateEventHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:57:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateRoleCommand.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\CreateRoleCommand.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\CreateRoleCommand.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\CreateRoleCommand.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\CreateRoleCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:22:08.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Properties\\launchSettings.json",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T18:38:37.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Program.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Program.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Program.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:31:37.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ocelot.combined.json",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.combined.json",
+              "RelativeDocumentMoniker": "02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.combined.json",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.combined.json",
+              "RelativeToolTip": "02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.combined.json",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T20:13:32.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "02.Apigateways\\Identity.ApiGateway\\Program.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Program.cs",
+              "RelativeToolTip": "02.Apigateways\\Identity.ApiGateway\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:23:32.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IdentityController.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\IdentityController.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\IdentityController.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\IdentityController.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\IdentityController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:32:38.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLoginEventHandler.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\UserLoginEventHandler.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\UserLoginEventHandler.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\UserLoginEventHandler.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\UserLoginEventHandler.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAgwEkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:55:26.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\DTOs\\UserDto.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:51:15.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateRoleHandler.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\CreateRoleHandler.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\CreateRoleHandler.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\CreateRoleHandler.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\CreateRoleHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:22:42.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AssignRoleToUserHandler.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\AssignRoleToUserHandler.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\AssignRoleToUserHandler.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\AssignRoleToUserHandler.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\AssignRoleToUserHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:15:45.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AssignRoleToUserCommand.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\AssignRoleToUserCommand.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\AssignRoleToUserCommand.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\AssignRoleToUserCommand.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\AssignRoleToUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:15:05.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AdminCreateUserCommand.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\AdminCreateUserCommand.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\AdminCreateUserCommand.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\AdminCreateUserCommand.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\AdminCreateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:44:07.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserLoginCommand.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\UserLoginCommand.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\UserLoginCommand.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\UserLoginCommand.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Commands\\UserLoginCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:01:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminCreateUserEventHandler.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\AdminCreateUserEventHandler.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\AdminCreateUserEventHandler.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\AdminCreateUserEventHandler.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\AdminCreateUserEventHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:51:35.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\ApplicationRole.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\ApplicationRole.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:30:45.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\ApplicationUser.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\ApplicationUser.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:33:27.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUserRole.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\ApplicationUserRole.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\ApplicationUserRole.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\ApplicationUserRole.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\ApplicationUserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:33:52.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250329004804_migrations.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Migrations\\20250329004804_migrations.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Migrations\\20250329004804_migrations.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Migrations\\20250329004804_migrations.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Migrations\\20250329004804_migrations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:48:04.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsersQueryHandlers.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\UsersQueryHandlers.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\UsersQueryHandlers.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\UsersQueryHandlers.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\UsersQueryHandlers.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:50:42.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUserConfiguration.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Configuration\\ApplicationUserConfiguration.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Configuration\\ApplicationUserConfiguration.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Configuration\\ApplicationUserConfiguration.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Configuration\\ApplicationUserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABRwA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:37:36.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUserRoleConfiguration.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Configuration\\ApplicationUserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Configuration\\ApplicationUserRoleConfiguration.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Configuration\\ApplicationUserRoleConfiguration.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Configuration\\ApplicationUserRoleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:37:45.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationRoleConfiguration.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Configuration\\ApplicationRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Configuration\\ApplicationRoleConfiguration.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Configuration\\ApplicationRoleConfiguration.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Configuration\\ApplicationRoleConfiguration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:37:25.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserQueryHandler.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\UserQueryHandler.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\UserQueryHandler.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\UserQueryHandler.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\UserQueryHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBZwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:36:29.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CommandsQueryHandlers.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Commands\\CommandsQueryHandlers.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Commands\\CommandsQueryHandlers.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Commands\\CommandsQueryHandlers.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Commands\\CommandsQueryHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:51:40.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IdentityAccess.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Responses\\IdentityAccess.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Responses\\IdentityAccess.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Responses\\IdentityAccess.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Responses\\IdentityAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:01:52.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CorsExtensions.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Extensions\\CorsExtensions.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Extensions\\CorsExtensions.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Extensions\\CorsExtensions.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Extensions\\CorsExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:26:07.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CorsExtensions.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Extensions\\CorsExtensions.cs",
+              "RelativeDocumentMoniker": "02.Apigateways\\Identity.ApiGateway\\Extensions\\CorsExtensions.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Extensions\\CorsExtensions.cs",
+              "RelativeToolTip": "02.Apigateways\\Identity.ApiGateway\\Extensions\\CorsExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:22:52.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "02.Apigateways\\Identity.ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "02.Apigateways\\Identity.ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABYAAAAAAAAAAABhwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T16:04:17.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\appsettings.json",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\appsettings.json",
+              "RelativeToolTip": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T18:38:57.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "02.Apigateways\\Identity.ApiGateway\\Dockerfile",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Dockerfile",
+              "RelativeToolTip": "02.Apigateways\\Identity.ApiGateway\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-28T23:25:52.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "02.Apigateways\\Identity.ApiGateway\\appsettings.json",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\appsettings.json",
+              "RelativeToolTip": "02.Apigateways\\Identity.ApiGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T15:23:34.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ocelot.identity.json",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.identity.json",
+              "RelativeDocumentMoniker": "02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.identity.json",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.identity.json",
+              "RelativeToolTip": "02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.identity.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T17:43:06.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ocelot.users.json",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.users.json",
+              "RelativeDocumentMoniker": "02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.users.json",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.users.json",
+              "RelativeToolTip": "02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.users.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T17:52:00.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ocelot.global.json",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.global.json",
+              "RelativeDocumentMoniker": "02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.global.json",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.global.json",
+              "RelativeToolTip": "02.Apigateways\\Identity.ApiGateway\\Configuration\\ocelot.global.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T17:43:25.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\DefaultController.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:32:10.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UsersEventExtensions.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Extensions\\UsersEventExtensions.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Extensions\\UsersEventExtensions.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Extensions\\UsersEventExtensions.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Extensions\\UsersEventExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:01:36.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DataCollection.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\DataCollection.cs",
+              "RelativeDocumentMoniker": "03.Service\\05.Common\\ServiceCommon.Collection\\DataCollection.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\DataCollection.cs",
+              "RelativeToolTip": "03.Service\\05.Common\\ServiceCommon.Collection\\DataCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:14:24.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ServiceCommon.Collection.csproj",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj",
+              "RelativeDocumentMoniker": "03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj",
+              "RelativeToolTip": "03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T02:21:54.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\ApplicationDbContext.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:36:42.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PagingExtension.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Paging\\PagingExtension.cs",
+              "RelativeDocumentMoniker": "03.Service\\05.Common\\ServiceCommon.Paging\\PagingExtension.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Paging\\PagingExtension.cs",
+              "RelativeToolTip": "03.Service\\05.Common\\ServiceCommon.Paging\\PagingExtension.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:14:59.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DtoMapperExtension.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Mapping\\DtoMapperExtension.cs",
+              "RelativeDocumentMoniker": "03.Service\\05.Common\\ServiceCommon.Mapping\\DtoMapperExtension.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Mapping\\DtoMapperExtension.cs",
+              "RelativeToolTip": "03.Service\\05.Common\\ServiceCommon.Mapping\\DtoMapperExtension.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:14:43.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Sys.Logger.cs",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\04.Common\\Common.Loggin\\Sys.Logger.cs",
+              "RelativeDocumentMoniker": "04.Common\\Common.Loggin\\Sys.Logger.cs",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\04.Common\\Common.Loggin\\Sys.Logger.cs",
+              "RelativeToolTip": "04.Common\\Common.Loggin\\Sys.Logger.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAmwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:07:11.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Identity.Service.Queries.csproj",
+              "DocumentMoniker": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
+              "RelativeDocumentMoniker": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
+              "ToolTip": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
+              "RelativeToolTip": "03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T17:58:47.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

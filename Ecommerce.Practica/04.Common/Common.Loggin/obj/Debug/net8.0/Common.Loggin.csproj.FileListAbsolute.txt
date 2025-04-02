@@ -1,0 +1,12 @@
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\04.Common\Common.Loggin\bin\Debug\net8.0\Common.Loggin.deps.json
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\04.Common\Common.Loggin\bin\Debug\net8.0\Common.Loggin.dll
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\04.Common\Common.Loggin\bin\Debug\net8.0\Common.Loggin.pdb
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\04.Common\Common.Loggin\obj\Debug\net8.0\Common.Loggin.csproj.AssemblyReference.cache
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\04.Common\Common.Loggin\obj\Debug\net8.0\Common.Loggin.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\04.Common\Common.Loggin\obj\Debug\net8.0\Common.Loggin.AssemblyInfoInputs.cache
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\04.Common\Common.Loggin\obj\Debug\net8.0\Common.Loggin.AssemblyInfo.cs
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\04.Common\Common.Loggin\obj\Debug\net8.0\Common.Loggin.csproj.CoreCompileInputs.cache
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\04.Common\Common.Loggin\obj\Debug\net8.0\Common.Loggin.dll
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\04.Common\Common.Loggin\obj\Debug\net8.0\refint\Common.Loggin.dll
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\04.Common\Common.Loggin\obj\Debug\net8.0\Common.Loggin.pdb
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\04.Common\Common.Loggin\obj\Debug\net8.0\ref\Common.Loggin.dll

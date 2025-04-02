@@ -1,0 +1,17 @@
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Service.EventHandlers.deps.json
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Service.EventHandlers.dll
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Service.EventHandlers.pdb
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Domain.dll
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Persistence.Database.dll
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Persistence.Database.pdb
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Domain.pdb
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.csproj.AssemblyReference.cache
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.AssemblyInfoInputs.cache
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.AssemblyInfo.cs
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.csproj.CoreCompileInputs.cache
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.10FE18E2.Up2Date
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.dll
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\obj\Debug\net8.0\refint\Identity.Service.EventHandlers.dll
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.pdb
+Y:\Proyectos\Ecommerce.Ejercicio\Ecommerce.Practica\03.Service\01.Identity\02.Identity.Service\Identity.Service.EventHandlers\obj\Debug\net8.0\ref\Identity.Service.EventHandlers.dll

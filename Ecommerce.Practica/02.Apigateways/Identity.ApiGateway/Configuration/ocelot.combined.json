@@ -1,0 +1,71 @@
+{
+  "Routes": [
+    // 🔐 Rutas públicas como login
+    {
+      "DownstreamPathTemplate": "/identity/authentication",
+      "UpstreamPathTemplate": "/identity/authentication",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5015
+        }
+      ],
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+
+    // 🔒 Rutas protegidas de Identity (ej: /identity/register, /identity/loquesea)
+    {
+      "DownstreamPathTemplate": "/identity/{everything}",
+      "UpstreamPathTemplate": "/identity/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5015
+        }
+      ],
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+
+    // 🔒 Rutas protegidas de Users (ej: /users/me, /users/logout, etc)
+    {
+      "DownstreamPathTemplate": "/users/{everything}",
+      "UpstreamPathTemplate": "/users/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5015
+        }
+      ],
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+
+    // 🔒 Rutas de administración (admin/users/create, assign-role, etc.)
+    {
+      "DownstreamPathTemplate": "/admin/{everything}",
+      "UpstreamPathTemplate": "/admin/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5015
+        }
+      ],
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5132"
+  }
+}

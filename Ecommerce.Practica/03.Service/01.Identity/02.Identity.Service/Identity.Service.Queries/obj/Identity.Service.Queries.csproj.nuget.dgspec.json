@@ -1,0 +1,429 @@
+{
+  "format": 1,
+  "restore": {
+    "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj": {}
+  },
+  "projects": {
+    "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
+        "projectName": "Identity.Service.Queries",
+        "projectPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj": {
+                "projectPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj"
+              },
+              "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj": {
+                "projectPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj"
+              },
+              "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Mapping\\ServiceCommon.Mapping.csproj": {
+                "projectPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Mapping\\ServiceCommon.Mapping.csproj"
+              },
+              "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj": {
+                "projectPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj",
+        "projectName": "Identity.Persistence.Database",
+        "projectPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj": {
+                "projectPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj",
+        "projectName": "Identity.Domain",
+        "projectPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj",
+        "projectName": "ServiceCommon.Collection",
+        "projectPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Mapping\\ServiceCommon.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Mapping\\ServiceCommon.Mapping.csproj",
+        "projectName": "ServiceCommon.Mapping",
+        "projectPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Mapping\\ServiceCommon.Mapping.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj",
+        "projectName": "ServiceCommon.Paging",
+        "projectPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Paging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj": {
+                "projectPath": "Y:\\Proyectos\\Ecommerce.Ejercicio\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
