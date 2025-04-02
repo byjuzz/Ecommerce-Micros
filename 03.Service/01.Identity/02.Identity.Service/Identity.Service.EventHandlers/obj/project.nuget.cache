@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bOyjOA/VBIk=",
+  "dgSpecHash": "pc8uh1EvlB0=",
   "success": true,
-  "projectFilePath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj",
+  "projectFilePath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\01.Identity\\02.Identity.Service\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julio\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Julio\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

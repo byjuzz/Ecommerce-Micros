@@ -209,11 +209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\04.Common\\Common.Loggin\\Common.Loggin.csproj",
+      "projectUniqueName": "Y:\\Ecommerce\\Ecommerce-Micros\\04.Common\\Common.Loggin\\Common.Loggin.csproj",
       "projectName": "Common.Loggin",
-      "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\04.Common\\Common.Loggin\\Common.Loggin.csproj",
+      "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\04.Common\\Common.Loggin\\Common.Loggin.csproj",
       "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\04.Common\\Common.Loggin\\obj\\",
+      "outputPath": "Y:\\Ecommerce\\Ecommerce-Micros\\04.Common\\Common.Loggin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",

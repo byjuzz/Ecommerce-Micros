@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0PnB88YSnvA=",
+  "dgSpecHash": "8w9RtD32S+g=",
   "success": true,
-  "projectFilePath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj",
+  "projectFilePath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\01.Identity\\03.Identity.Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julio\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Julio\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

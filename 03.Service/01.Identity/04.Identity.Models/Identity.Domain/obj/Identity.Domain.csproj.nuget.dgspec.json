@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj": {}
+    "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj": {}
   },
   "projects": {
-    "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj": {
+    "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj",
+        "projectUniqueName": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj",
         "projectName": "Identity.Domain",
-        "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj",
+        "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\Identity.Domain.csproj",
         "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\obj\\",
+        "outputPath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\01.Identity\\04.Identity.Models\\Identity.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",

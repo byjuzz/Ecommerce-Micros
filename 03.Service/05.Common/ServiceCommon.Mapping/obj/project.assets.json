@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Mapping\\ServiceCommon.Mapping.csproj",
+      "projectUniqueName": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Mapping\\ServiceCommon.Mapping.csproj",
       "projectName": "ServiceCommon.Mapping",
-      "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Mapping\\ServiceCommon.Mapping.csproj",
+      "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Mapping\\ServiceCommon.Mapping.csproj",
       "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Mapping\\obj\\",
+      "outputPath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Mapping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServiceCommon.Paging")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+276bce810b4cb162b8ee9667a820ada29a3c6f18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fe5ce6109acb13f77d4d322d92060bf55142d04")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServiceCommon.Paging")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServiceCommon.Paging")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

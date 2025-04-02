@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+CV74SARjgA=",
+  "dgSpecHash": "mV0Q6kx6glk=",
   "success": true,
-  "projectFilePath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj",
+  "projectFilePath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julio\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.3\\microsoft.entityframeworkcore.9.0.3.nupkg.sha512",
     "C:\\Users\\Julio\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.3\\microsoft.entityframeworkcore.abstractions.9.0.3.nupkg.sha512",

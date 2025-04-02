@@ -615,11 +615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj",
+      "projectUniqueName": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj",
       "projectName": "ServiceCommon.Paging",
-      "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj",
+      "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Paging\\ServiceCommon.Paging.csproj",
       "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Paging\\obj\\",
+      "outputPath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Paging\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -637,8 +637,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj": {
-              "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj"
+            "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj": {
+              "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VRckD+aH8EM=",
+  "dgSpecHash": "QghpJKxYs1I=",
   "success": true,
-  "projectFilePath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\04.Common\\Common.Loggin\\Common.Loggin.csproj",
+  "projectFilePath": "Y:\\Ecommerce\\Ecommerce-Micros\\04.Common\\Common.Loggin\\Common.Loggin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\Julio\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.3\\microsoft.extensions.logging.abstractions.9.0.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vzfLL8vstm0=",
+  "dgSpecHash": "LHD1ZRVNk80=",
   "success": true,
-  "projectFilePath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj",
+  "projectFilePath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\01.Identity\\01.Identity.Api\\Identity.Api\\Identity.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julio\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Julio\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
