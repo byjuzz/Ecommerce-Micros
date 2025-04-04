@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj": {}
+    "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj": {}
   },
   "projects": {
-    "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj": {
+    "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj",
+        "projectUniqueName": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj",
         "projectName": "ServiceCommon.Collection",
-        "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj",
+        "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Collection\\ServiceCommon.Collection.csproj",
         "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\03.Service\\05.Common\\ServiceCommon.Collection\\obj\\",
+        "outputPath": "Y:\\Ecommerce\\Ecommerce-Micros\\03.Service\\05.Common\\ServiceCommon.Collection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",

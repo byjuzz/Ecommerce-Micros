@@ -1333,11 +1333,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj",
+      "projectUniqueName": "Y:\\Ecommerce\\Ecommerce-Micros\\02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj",
       "projectName": "Identity.ApiGateway",
-      "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj",
+      "projectPath": "Y:\\Ecommerce\\Ecommerce-Micros\\02.Apigateways\\Identity.ApiGateway\\Identity.ApiGateway.csproj",
       "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "Y:\\Ecommerce\\Ecommerce-Micros\\Ecommerce.Practica\\02.Apigateways\\Identity.ApiGateway\\obj\\",
+      "outputPath": "Y:\\Ecommerce\\Ecommerce-Micros\\02.Apigateways\\Identity.ApiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
