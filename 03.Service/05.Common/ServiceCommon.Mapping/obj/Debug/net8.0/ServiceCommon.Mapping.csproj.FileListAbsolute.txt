@@ -21,3 +21,15 @@ Y:\Ecommerce\Ecommerce-Micros\Ecommerce.Practica\03.Service\05.Common\ServiceCom
 Y:\Ecommerce\Ecommerce-Micros\Ecommerce.Practica\03.Service\05.Common\ServiceCommon.Mapping\obj\Debug\net8.0\refint\ServiceCommon.Mapping.dll
 Y:\Ecommerce\Ecommerce-Micros\Ecommerce.Practica\03.Service\05.Common\ServiceCommon.Mapping\obj\Debug\net8.0\ServiceCommon.Mapping.pdb
 Y:\Ecommerce\Ecommerce-Micros\Ecommerce.Practica\03.Service\05.Common\ServiceCommon.Mapping\obj\Debug\net8.0\ref\ServiceCommon.Mapping.dll
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Mapping\bin\Debug\net8.0\ServiceCommon.Mapping.deps.json
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Mapping\bin\Debug\net8.0\ServiceCommon.Mapping.dll
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Mapping\bin\Debug\net8.0\ServiceCommon.Mapping.pdb
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Mapping\obj\Debug\net8.0\ServiceCommon.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Mapping\obj\Debug\net8.0\ServiceCommon.Mapping.AssemblyInfoInputs.cache
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Mapping\obj\Debug\net8.0\ServiceCommon.Mapping.AssemblyInfo.cs
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Mapping\obj\Debug\net8.0\ServiceCommon.Mapping.csproj.CoreCompileInputs.cache
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Mapping\obj\Debug\net8.0\ServiceCommon.Mapping.sourcelink.json
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Mapping\obj\Debug\net8.0\ServiceCommon.Mapping.dll
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Mapping\obj\Debug\net8.0\refint\ServiceCommon.Mapping.dll
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Mapping\obj\Debug\net8.0\ServiceCommon.Mapping.pdb
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Mapping\obj\Debug\net8.0\ref\ServiceCommon.Mapping.dll

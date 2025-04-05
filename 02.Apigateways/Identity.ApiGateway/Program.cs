@@ -10,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // 🔧 Configuración Ocelot
 builder.Configuration
-    .AddJsonFile("Configuration/ocelot.combined.json", optional: false, reloadOnChange: true);
+    .AddJsonFile("Configuration/ocelot.json", optional: false, reloadOnChange: true);
 
 // ✅ Leer clave JWT desde appsettings
 var secret = builder.Configuration["Jwt:Key"];
@@ -75,7 +75,7 @@ app.UseAuthorization();
 
 app.MapControllers(); // 👈 Esto permite que tus controladores personalizados funcionen
 
-//await app.UseOcelot();
+await app.UseOcelot();
 
 app.Logger.LogInformation("🚀 Identity.ApiGateway iniciado en el entorno: {env}", app.Environment.EnvironmentName);
 

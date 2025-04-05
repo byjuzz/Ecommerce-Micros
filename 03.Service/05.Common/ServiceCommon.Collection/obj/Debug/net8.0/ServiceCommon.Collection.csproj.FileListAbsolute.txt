@@ -21,3 +21,15 @@ Y:\Ecommerce\Ecommerce-Micros\Ecommerce.Practica\03.Service\05.Common\ServiceCom
 Y:\Ecommerce\Ecommerce-Micros\Ecommerce.Practica\03.Service\05.Common\ServiceCommon.Collection\obj\Debug\net8.0\refint\ServiceCommon.Collection.dll
 Y:\Ecommerce\Ecommerce-Micros\Ecommerce.Practica\03.Service\05.Common\ServiceCommon.Collection\obj\Debug\net8.0\ServiceCommon.Collection.pdb
 Y:\Ecommerce\Ecommerce-Micros\Ecommerce.Practica\03.Service\05.Common\ServiceCommon.Collection\obj\Debug\net8.0\ref\ServiceCommon.Collection.dll
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Collection\bin\Debug\net8.0\ServiceCommon.Collection.deps.json
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Collection\bin\Debug\net8.0\ServiceCommon.Collection.dll
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Collection\bin\Debug\net8.0\ServiceCommon.Collection.pdb
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Collection\obj\Debug\net8.0\ServiceCommon.Collection.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Collection\obj\Debug\net8.0\ServiceCommon.Collection.AssemblyInfoInputs.cache
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Collection\obj\Debug\net8.0\ServiceCommon.Collection.AssemblyInfo.cs
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Collection\obj\Debug\net8.0\ServiceCommon.Collection.csproj.CoreCompileInputs.cache
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Collection\obj\Debug\net8.0\ServiceCommon.Collection.sourcelink.json
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Collection\obj\Debug\net8.0\ServiceCommon.Collection.dll
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Collection\obj\Debug\net8.0\refint\ServiceCommon.Collection.dll
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Collection\obj\Debug\net8.0\ServiceCommon.Collection.pdb
+Y:\Ecommerce\Ecommerce-Micros\03.Service\05.Common\ServiceCommon.Collection\obj\Debug\net8.0\ref\ServiceCommon.Collection.dll

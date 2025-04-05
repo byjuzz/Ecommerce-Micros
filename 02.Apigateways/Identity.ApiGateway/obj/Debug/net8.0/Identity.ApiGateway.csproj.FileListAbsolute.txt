@@ -109,9 +109,9 @@ Y:\Ecommerce\Ecommerce-Micros\Ecommerce.Practica\02.Apigateways\Identity.ApiGate
 Y:\Ecommerce\Ecommerce-Micros\Ecommerce.Practica\02.Apigateways\Identity.ApiGateway\obj\Debug\net8.0\ref\Identity.ApiGateway.dll
 Y:\Ecommerce\Ecommerce-Micros\02.Apigateways\Identity.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
 Y:\Ecommerce\Ecommerce-Micros\02.Apigateways\Identity.ApiGateway\bin\Debug\net8.0\appsettings.json
-Y:\Ecommerce\Ecommerce-Micros\02.Apigateways\Identity.ApiGateway\bin\Debug\net8.0\Configuration\ocelot.combined.json
 Y:\Ecommerce\Ecommerce-Micros\02.Apigateways\Identity.ApiGateway\bin\Debug\net8.0\Configuration\ocelot.global.json
 Y:\Ecommerce\Ecommerce-Micros\02.Apigateways\Identity.ApiGateway\bin\Debug\net8.0\Configuration\ocelot.identity.json
+Y:\Ecommerce\Ecommerce-Micros\02.Apigateways\Identity.ApiGateway\bin\Debug\net8.0\Configuration\ocelot.json
 Y:\Ecommerce\Ecommerce-Micros\02.Apigateways\Identity.ApiGateway\bin\Debug\net8.0\Configuration\ocelot.users.json
 Y:\Ecommerce\Ecommerce-Micros\02.Apigateways\Identity.ApiGateway\bin\Debug\net8.0\Identity.ApiGateway.exe
 Y:\Ecommerce\Ecommerce-Micros\02.Apigateways\Identity.ApiGateway\bin\Debug\net8.0\Identity.ApiGateway.deps.json

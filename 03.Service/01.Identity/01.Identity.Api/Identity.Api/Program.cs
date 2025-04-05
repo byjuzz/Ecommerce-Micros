@@ -112,5 +112,19 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        var context = services.GetRequiredService<ApplicationDbContext>();
+        context.Database.Migrate();
+        app.Logger.LogInformation("✅ Migraciones aplicadas correctamente.");
+    }
+    catch (Exception ex)
+    {
+        app.Logger.LogError(ex, "❌ Error al aplicar migraciones automáticamente.");
+    }
+}
 
 app.Run();

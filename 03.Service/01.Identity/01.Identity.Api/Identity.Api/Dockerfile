@@ -10,6 +10,13 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["03.Service/01.Identity/01.Identity.Api/Identity.Api/Identity.Api.csproj", "03.Service/01.Identity/01.Identity.Api/Identity.Api/"]
+COPY ["03.Service/01.Identity/02.Identity.Service/Identity.Service.EventHandlers/Identity.Service.EventHandlers.csproj", "03.Service/01.Identity/02.Identity.Service/Identity.Service.EventHandlers/"]
+COPY ["03.Service/01.Identity/03.Identity.Persistence/Identity.Persistence.Database/Identity.Persistence.Database.csproj", "03.Service/01.Identity/03.Identity.Persistence/Identity.Persistence.Database/"]
+COPY ["03.Service/01.Identity/04.Identity.Models/Identity.Domain/Identity.Domain.csproj", "03.Service/01.Identity/04.Identity.Models/Identity.Domain/"]
+COPY ["03.Service/01.Identity/02.Identity.Service/Identity.Service.Queries/Identity.Service.Queries.csproj", "03.Service/01.Identity/02.Identity.Service/Identity.Service.Queries/"]
+COPY ["03.Service/05.Common/ServiceCommon.Collection/ServiceCommon.Collection.csproj", "03.Service/05.Common/ServiceCommon.Collection/"]
+COPY ["03.Service/05.Common/ServiceCommon.Mapping/ServiceCommon.Mapping.csproj", "03.Service/05.Common/ServiceCommon.Mapping/"]
+COPY ["03.Service/05.Common/ServiceCommon.Paging/ServiceCommon.Paging.csproj", "03.Service/05.Common/ServiceCommon.Paging/"]
 RUN dotnet restore "./03.Service/01.Identity/01.Identity.Api/Identity.Api/Identity.Api.csproj"
 COPY . .
 WORKDIR "/src/03.Service/01.Identity/01.Identity.Api/Identity.Api"
